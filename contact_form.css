@@ -1,0 +1,78 @@
+
+#form_wrapper{
+width:86%;
+max-width:45em;
+background-color:#fff;
+border: .065em solid gray;
+border-radius:2em;
+box-shadow: 0.125em 0.125em 0.625em 0em rgba(0, 0, 0, 0.4); /* Subtle drop shadow */
+margin:2em auto 1em auto; 
+padding: 1em; 
+}
+
+.form-fields{
+margin:0 0 1em 1em ;
+padding: 0;
+}
+.prompt-text{
+color: #808080;
+font-size: 0.75em;
+margin:0 0 1em 2em;
+padding:0 0 5em 0;
+}
+
+#message{
+min-width: 260px;
+min-height: 80px;
+padding: 0.25em;
+font-size:1em;
+background-color:#ebedf0;
+color: #000;
+border: 2px solid #afb2b6;
+border-radius: 0.25em;
+box-shadow: 0.125em 0.125em 0.625em 0em rgba(0, 0, 0, 0.4);
+}
+
+.g-recaptcha{
+margin:1em 0 1em 0.25em;
+padding:0;
+}
+
+.input{
+padding: 0.25em;
+font-size:1em;
+background-color: #ebedf0;
+color: #000;
+border: 2px solid #afb2b6;
+border-radius: 0.25em;
+box-shadow: 0.125em 0.125em 0.625em 0em rgba(0, 0, 0, 0.4);
+}
+
+.sent-info{
+font-weight:bold;
+font-style:italic;
+border-bottom:0.12em dotted gray;
+margin:0.75em 0.75em;
+padding:0.5em;
+}
+       
+#bck-btn{
+width:70%;
+text-align:center;
+background-color:#d7dbe0;
+border:0.2em solid #00000030;
+border-radius: .5em;
+margin:2em auto .05em auto;
+padding:0.5em 0;
+}
+       
+#bck-btn a{
+color:#b05d2a;
+text-decoration:none;   
+}
+       
+#bck-btn a:hover{
+color:#693515;
+text-decoration:underline;
+}  
+ 
